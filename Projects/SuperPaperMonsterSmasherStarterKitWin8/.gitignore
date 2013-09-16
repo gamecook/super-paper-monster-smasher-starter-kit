@@ -1,0 +1,12 @@
+/lib/impact/*
+/lib/weltmeister/*
+!/lib/weltmeister/config.js
+
+/deploy/*
+/tools/*
+/lib/weltmeister.html
+weltmeister.html
+
+/bin/*
+/bld/*
+/js/game.min.js

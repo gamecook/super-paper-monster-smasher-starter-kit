@@ -1,0 +1,7 @@
+{
+	"project": "Super Paper Monster Smasher Starter Kit",
+	"rootProject": "./Projects/SuperPaperMonsterSmasherStarterKitWin8/",
+    "wp8Project": "./Projects/SuperPaperMonsterSmasherStarterKitWP8/",
+    "deployDir": "./Deploy/",
+    "blogRootPath": "/wp-content/games/super-paper-monster-smasher-starter-kit/media/"
+}

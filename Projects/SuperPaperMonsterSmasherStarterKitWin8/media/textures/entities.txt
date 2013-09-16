@@ -1,0 +1,67 @@
+{"frames": [
+	{
+		"filename": "blood-puddle.png", "rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":411,"w":46,"h":16},
+		"spriteSourceSize": {"x":0,"y":0,"w":46,"h":16},
+		"sourceSize": {"w":46,"h":16}
+	},
+	{
+		"filename": "goat.png", "rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":429,"w":42,"h":47},
+		"spriteSourceSize": {"x":0,"y":0,"w":42,"h":47},
+		"sourceSize": {"w":42,"h":47}
+	},
+	{
+		"filename": "knight.png", "rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":478,"w":24,"h":60},
+		"spriteSourceSize": {"x":0,"y":0,"w":24,"h":60},
+		"sourceSize": {"w":24,"h":60}
+	},
+	{
+		"filename": "player-0.png", "rotated": false,"trimmed": true,
+		"frame": {"x":162,"y":169,"w":160,"h":240},
+		"spriteSourceSize": {"x":0,"y":0,"w":160,"h":240},
+		"sourceSize": {"w":160,"h":240}
+	},
+	{
+		"filename": "player-1.png", "rotated": false,"trimmed": true,
+		"frame": {"x":324,"y":0,"w":160,"h":240},
+		"spriteSourceSize": {"x":0,"y":0,"w":160,"h":240},
+		"sourceSize": {"w":160,"h":240}
+	},
+	{
+		"filename": "player-2.png", "rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":169,"w":160,"h":240},
+		"spriteSourceSize": {"x":0,"y":0,"w":160,"h":240},
+		"sourceSize": {"w":160,"h":240}
+	},
+	{
+		"filename": "player-corpse.png", "rotated": false,"trimmed": true,
+		"frame": {"x":0,"y":0,"w":251,"h":167},
+		"spriteSourceSize": {"x":0,"y":0,"w":251,"h":167},
+		"sourceSize": {"w":251,"h":167}
+	},
+	{
+		"filename": "player-ghost.png", "rotated": false,"trimmed": true,
+		"frame": {"x":324,"y":242,"w":160,"h":275},
+		"spriteSourceSize": {"x":0,"y":0,"w":160,"h":275},
+		"sourceSize": {"w":160,"h":275}
+	},
+	{
+		"filename": "touch-arrow-left.png", "rotated": false,"trimmed": true,
+		"frame": {"x":547,"y":0,"w":59,"h":316},
+		"spriteSourceSize": {"x":0,"y":0,"w":60,"h":316},
+		"sourceSize": {"w":60,"h":316}
+	},
+	{
+		"filename": "touch-arrow-right.png", "rotated": false,"trimmed": true,
+		"frame": {"x":486,"y":0,"w":59,"h":316},
+		"spriteSourceSize": {"x":1,"y":0,"w":60,"h":316},
+		"sourceSize": {"w":60,"h":316}
+	},
+{"emptyObject":"keeps this template from breaking"}]
+,"meta": {
+	"app": "ShoeBox",
+	"size": {"w":608,"h":540}
+}
+}

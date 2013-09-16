@@ -1,0 +1,30 @@
+{
+  "name": "SuperPaperMonsterSmasherStarterKit",
+  "version": "1.0.0",
+  "description": "Super Jetroid Starter Kit is a full game template to help you fast track your ImpactJS game development on Windows 8 and Web.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gamecook/super-paper-monster-smasher-starter-kit.git"
+  },
+  "author": "Jesse Freeman",
+  "license": "MIT",
+  "readmeFilename": "readme.md",
+  "gitHead": "9cb42ceab42316c3acdd88b09b284e33d71fb232",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-express-server": "~0.4.0",
+    "express": "~3.2.6",
+    "grunt-shell": "~0.2.2",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-text-replace": "~0.3.2",
+    "grunt-contrib-clean": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-open": "~0.2.0",
+    "impact-weltmeister": "~0.1.4"
+  }
+}

@@ -1,0 +1,7 @@
+/Deploy/*
+
+*.db
+*.sdf
+*.cache
+
+/node_modules/*
